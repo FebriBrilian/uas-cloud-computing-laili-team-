@@ -1,0 +1,19 @@
+Andhika 
+- Setup Docker
+- Setup Network
+
+Faaza
+- Setup Database
+- Testing Persistence
+
+Jibral
+- Setup WordPress
+- Dokumentasi
+
+Febri Brilian Barkah
+- GitHub Repository
+- Monitoring
+
+Dayat
+- Pengujian
+- Screenshot

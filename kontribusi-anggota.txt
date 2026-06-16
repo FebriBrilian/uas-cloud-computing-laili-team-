@@ -1,19 +1,36 @@
-Andhika
-- Setup Docker
-- Setup Network
+Week-1
+	Andhika
+	- Setup Docker
+	- Setup Network
 
-Faaza
-- Setup Database
-- Testing Persistence
+	Faaza
+	- Setup Database
+	- Testing Persistence
 
-Jibral
-- Setup WordPress
-- Dokumentasi
+	Jibral
+	- Setup WordPress
+	- Dokumentasi
 
-Febri Brilian Barkah
-- GitHub Repository
-- Monitoring
+	Febri Brilian Barkah
+	- GitHub Repository
+	- Monitoring
 
-dayat
-- Pengujian
-- Screenshot
+	dayat
+	- Pengujian
+	- Screenshot
+
+Week-2
+	Andhika
+	- Setup docker compose dan .env 
+	
+	Faaza
+	- Setup pada wp-config untuk koneksi antara wordpress, redis dan cloud storage
+
+	Jibral
+	- Screenshot hasil dari week-2
+
+	Febri
+	- Setup github dan monitoring kontribusi kelompok
+
+	Dayat
+	- Instalasi Pluggin wordpress yang dibutuhkan

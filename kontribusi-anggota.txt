@@ -34,3 +34,19 @@ Week-2
 
 	Dayat
 	- Instalasi Pluggin wordpress yang dibutuhkan
+
+Week-3
+	Andhika
+	- Screenshot docker compose
+	
+	Faaza
+	- Screenshot layer networking
+
+	Jibral
+	- Screenshot git ignore dan env example
+
+	Febri
+	- Screenshot halaman wordpress
+
+	Dayat
+	- Monitoring dan upload github
